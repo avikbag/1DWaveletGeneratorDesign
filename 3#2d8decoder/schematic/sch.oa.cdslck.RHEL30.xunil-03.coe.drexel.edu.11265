@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      ajh359
 HostName                       xunil-03.coe.drexel.edu
-ProcessIdentifier              4113
-ProcessCreationTime_UTC        1486562974
-ProcessCreationTime_Readable   Wed Feb  8 09:09:34 2017 EST
+ProcessIdentifier              11265
+ProcessCreationTime_UTC        1486564878
+ProcessCreationTime_Readable   Wed Feb  8 09:41:18 2017 EST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/DREXEL/ajh359/IBM_CMOS7RF/VLSIProject2/precharge_circuit/schematic/sch.oa.cdslck
-TimeEditLocked                 Wed Feb  8 09:15:04 2017 EST
+FilePathUsedToEditLock         /home/DREXEL/ajh359/IBM_CMOS7RF/VLSIProject2/3#2d8decoder/schematic/sch.oa.cdslck
+TimeEditLocked                 Wed Feb  8 10:06:15 2017 EST
