@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      cy362
 HostName                       xunil-03.coe.drexel.edu
-ProcessIdentifier              31011
-ProcessCreationTime_UTC        1489628318
-ProcessCreationTime_Readable   Wed Mar 15 21:38:38 2017 EDT
+ProcessIdentifier              22867
+ProcessCreationTime_UTC        1489637125
+ProcessCreationTime_Readable   Thu Mar 16 00:05:25 2017 EDT
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /home/DREXEL/cy362/IBM_CMOS7RF/VLSIProject2/SRAM_Cell/schematic/sch.oa.cdslck.dirlck
-TimeEditLocked                 Wed Mar 15 21:54:47 2017 EDT
+FilePathUsedToEditLock         /home/DREXEL/cy362/IBM_CMOS7RF/VLSIProject2/read_write/layout/layout.oa.cdslck.dirlck
+TimeEditLocked                 Thu Mar 16 01:26:21 2017 EDT
